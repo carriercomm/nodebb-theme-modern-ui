@@ -1,0 +1,23 @@
+{
+  "name": "nodebb-theme-modern-ui",
+  "version": "0.0.1",
+  "description": "Modern UI theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psychobunny/nodebb-theme-modern-ui"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "themes"
+  ],
+  "author": "Andrew Rodrigues <andrew@designcreateplay.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-modern-ui/issues"
+  },
+  "peerDependencies": {
+    "nodebb-theme-vanilla": "~0.0.1"
+  }
+}
